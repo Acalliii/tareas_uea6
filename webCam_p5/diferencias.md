@@ -1,0 +1,2 @@
+Las principales diferencias que encuentro entre ambos ejercicios son, principalmente, acerca de cómo es el código o la programación. En p5.js, principalmente es código y texto, mientras que TouchDesigner es algo más visual, con contenedores, todo basado en lo visual. Aunque, de la misma manera, eso también los hace similares, ya que de alguna forma los dos ejercicios te llevan a la misma salida. Ambas herramientas te permiten hacer algo similar, solo que desde dos perspectivas técnicas distintas.
+
