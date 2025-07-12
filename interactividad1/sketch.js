@@ -11,34 +11,34 @@ function draw() {
 
 function keyPressed() {
   if(key === 'q'){
-    frase ="¿Quieres jugar?"
+    frase =":)"
   }
   if(key === 'w'){
-    frase="¿Estas seguro que quieres continuar?"
+    frase=":("
   }
   if(key === 'e'){
-    frase="Te contare algo que te dara miedo"
+    frase=":p"
   }
   if(key === 'r'){
-    frase="Hy muchos rumores sobre quien soy yo"
+    frase=":q"
   }
   if(key === 't'){
-    frase="Yo fui alguien grande e importante"
+    frase=";O"
   }
   if(key === 'y'){
-    frase="Hasta que todo cambio un día"
+    frase=";u"
   }
   if(key === 'u'){
-    frase="Aterrorice a todos"
+    frase=":v"
   }
   if(key === 'i'){
-    frase="te agredezco"
+    frase=":0"
   }
   if(key === 'o'){
-    frase="por tanto"
+    frase="u_u"
   }
   if(key === 'p'){
-    frase="perdon por tan poco "
+    frase="o_o"
   }
 
 
