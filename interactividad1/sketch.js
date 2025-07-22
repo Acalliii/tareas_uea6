@@ -7,7 +7,6 @@ function draw() {
   background(255);
   textSize(200);
   text(frase, 700,350);
-  textAlign(CENTER);
 } 
 
 function keyPressed() {
