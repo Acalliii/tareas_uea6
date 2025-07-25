@@ -3,7 +3,7 @@ body{
 }
 
 h1{
-    color:rgb(245, 5, 5);
+    color:rgb(252,6,6);
     font-family: 'Times new roman', Courier, monospace;
     text-align: center;
     font-size: 70px;
@@ -13,20 +13,64 @@ h1{
 h2{
     color:rgb(250, 249, 249);
     font-family: 'Times new roman';
-    text-align:justify;
+    text-align:center;
     font-size: 30px;
 }
 
 h3{
     color:rgb(252, 6, 6);
     font-family: 'Times new roman';
-    text-align:justify;
-    font-size: 20px;
+    text-align:center;
+    font-size: 25px;
 }
+
+h4{
+    color:rgb(252, 6, 6);
+    font-family: 'Times new roman';
+    text-align:center;
+    font-size:25px;
+}
+h5{
+    color:rgb(252, 6, 6);
+    font-family: 'Times new roman';
+    text-align:center;
+    font-size:25px;
+}
+h6{
+    color:rgb(252, 6, 6);
+    font-family: 'Times new roman';
+    text-align:center;
+    font-size:25px;
+}
+h7{
+    color:rgb(252, 6, 6);
+    font-family: 'Times new roman';
+    text-align:center;
+    font-size:25px;
+}
+
+
+
+
+
+
 p{
     text-align: justify;
-    font-size: 30px;
+    font-size: 25px;
     color: rgb(255, 255, 255);
     margin-top: 50px;
     padding: 10px;
+}
+p1{
+    text-align: justify;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    padding: 10px;
+}
+
+@media screen and (max-Width:800px){
+    .izquierda, .centro, .derecha{
+        width: 100%;
+    }
 }
